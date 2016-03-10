@@ -559,7 +559,7 @@ class ClassDefinition extends Model\AbstractModel
     }
 
     /**
-     * @return array
+     * @return Pimcore\Model\Object\ClassDefinition\Layout\Panel
      */
     public function getLayoutDefinitions()
     {
